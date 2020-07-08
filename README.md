@@ -10,12 +10,11 @@ simple BBS server & client programs, implemented by following tools:
 
 ## hw1
 
->A basic BBS server with `user registration`, `login/logout
- ` functions, and supports multiple connections.
+>A basic BBS server with `user registration`, `login/logout` functions, and supports multiple connections.
 
 ## hw2
 
->BBS server with more functions: `create board/post`,` read, edit and comment on post`, `keyword searching on board/post`.
+>BBS server with more functions: `create board/post`, `read, edit and comment on post`, `keyword searching on board/post`.
 
 
 ## hw3
