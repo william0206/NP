@@ -6,11 +6,11 @@ simple BBS server & client programs, implemented by following tools:
   * `socket`
   * `sqlite`
   * `select`
-  * `amazon S3`
+  * `Amazon S3`
 
 ## hw1
 
->A basic BBS server with `user registration`, `login/logout` functions, and supports multiple connections.
+>A basic BBS server with `user registration`, `login/logout` functions, and supports `multiple connections`.
 
 ## hw2
 
