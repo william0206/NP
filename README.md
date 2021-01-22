@@ -1,5 +1,5 @@
 # NP
-> Introduction to Network Programming `nctu_cs 108_course`
+> Introduction to Network Programming `nctu_cs 2020_Spring`
 
 simple BBS server & client programs, implemented by following tools: 
 
